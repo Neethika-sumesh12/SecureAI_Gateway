@@ -1,0 +1,7 @@
+target/
+.DS_Store
+__MACOSX/
+.idea/
+*.iml
+.vscode/
+*.log
